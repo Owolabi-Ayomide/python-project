@@ -4,15 +4,15 @@
 [This report documents and analyzes the Customer Shopping Dataset – Retail Sales Data, a public retail dataset covering transactions recorded across shopping malls in Istanbul between 2021 and 2023.]
 
 - invoice_no
--customer_id
--gender
--age
--category
--quantity
--price
--payment_method
--invoice_date
--shopping_mall
+- customer_id
+- gender
+- age
+- category
+- quantity
+- price
+- payment_method
+- invoice_date
+- shopping_mall
 
 
 
