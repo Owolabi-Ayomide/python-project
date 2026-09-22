@@ -21,5 +21,5 @@ Total Quantity	794.25
 Avg. Transaction	99,457
 Shopping Malls₺2,528.79	10
 
-
-[linkedin:](www.linkedin.com/in/owolabi-suliat-b7446941b)
+##CONNECT WITH ME
+[linkedin @ Owolabi Ayomide](https://www.linkedin.com/in/owolabi-suliat-b7446941b)
